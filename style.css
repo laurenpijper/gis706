@@ -35,15 +35,15 @@ p{
         font-family:  'Source Code Pro', Consolas, monocco, monospace;
    }
     h1 {
-        font-family: 'Varela Round';
-    font-size: 3.6rem !important;
+        
+    font-size: 2rem !important;
     font-weight: 300 !important;
-    color: #000000 !important;
+    color: #134e5e !important;
     /* letter-spacing: 3px !important; */
     text-transform: normal !important;
     text-align: center !important;
-    padding-top:  3rem;
-    padding-bottom: 3rem;
+    padding-top:  1rem;
+    padding-bottom: 1rem;
     /*border-bottom: 1px dotted #000000 !important;*/
 	}
 
