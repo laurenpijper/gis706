@@ -1,9 +1,9 @@
 <style>
-@import url('http://fonts.googleapis.com/css?family=Source+Code+Pro');
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
 @import url('http://fonts.googleapis.com/css?family=Lora');
 
 .CodeMirror pre {
-    font-family: 'Source Code Pro', Consolas, monocco, monospace;
+    font-family: 'Varela Round', Consolas, monocco, monospace;
 }
     div.cell{
         //width: 950px;
@@ -26,7 +26,7 @@
         font-family:  'Source Code Pro', Consolas, monocco, monospace;
    }
     h1 {
-        font-family: 'Open sans',verdana,arial,sans-serif;
+        font-family: 'Varela Round', sans-serif;
 	}
 
     div.input_area {
