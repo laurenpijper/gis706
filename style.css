@@ -35,10 +35,10 @@ p{
         font-family:  'Source Code Pro', Consolas, monocco, monospace;
    }
     h1 {
-        background-color: #134e5e;
+    background-color: #134e5e;
     font-size: 2rem !important;
     font-weight: 300 !important;
-    color: white !important;
+    color: #ffffff;
     /* letter-spacing: 3px !important; */
     text-transform: normal !important;
     text-align: center !important;
