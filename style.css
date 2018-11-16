@@ -89,7 +89,7 @@ p{
         font-weight: 200;
         font-size: 16pt;
         font-style: italic;
-        line-height: 100%;
+        line-height: 1;
         color: #134e5e;
         margin-bottom: 0.5em;
         margin-top: 1.5em;
