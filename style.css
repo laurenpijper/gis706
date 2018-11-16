@@ -100,26 +100,26 @@ p{
 	padding-botton: 0.5rem;
     }
     h3 {
-        font-family: 'Varela Round', sans-serif;
+        
     }
     .text_cell_render h3 {
         font-weight: 200;
         font-size: 14pt;
-        line-height: 2;
-        color:#d77c0c;
+        line-height: 1;
+        color:#134e5e;
         margin-bottom: 0.5em;
         margin-top: 2em;
         display: block;
         white-space: wrap;
-        text-align: left;
+        text-align: center;
     }
     h4 {
-        font-family: 'Varela Round', sans-serif;
+        
     }
     .text_cell_render h4 {
         font-weight: 100;
         font-size: 14pt;
-        color:#d77c0c;
+        color:#134e5e;
         margin-bottom: 0.5em;
         margin-top: 0.5em;
         display: block;
