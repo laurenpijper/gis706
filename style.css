@@ -19,6 +19,7 @@
         font-size: 100%;
         text-align: justify;
         text-justify:inter-word;
+	    color :black;
     }
     div.text_cell code {
         background: transparent;
@@ -43,6 +44,7 @@
     div.input_area {
         background: 	#dde6ea;
         border: 1px solid #111213;
+	   
     }
 
     .text_cell_render h1 {
