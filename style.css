@@ -5,6 +5,10 @@
 .CodeMirror pre {
     font-family: 'Varela Round', Consolas, monocco, monospace;
 }
+.CodeMirror span.cm-variable-2 {
+    color: #134e5e;
+	font-size: 1rem;
+}
 p{
 	
 	color: #134e5e;
