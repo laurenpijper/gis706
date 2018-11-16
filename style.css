@@ -6,7 +6,8 @@
     font-family: 'Varela Round', Consolas, monocco, monospace;
 }
     div.cell{
-        //width: 950px;
+	    height: 100%;
+        width: 950px;
         margin-left: 0% !important;
         margin-right: auto;
         color: red;
