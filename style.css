@@ -72,6 +72,7 @@ p{
         text-align: left;
     }
     .text_cell_render h2 {
+	background-color: #508e74;
         font-weight: 200;
         font-size: 16pt;
         font-style: italic;
@@ -81,7 +82,7 @@ p{
         margin-top: 1.5em;
         display: block;
         white-space: wrap;
-        text-align: left;
+        text-align: center;
     }
     h3 {
         font-family: 'Varela Round', sans-serif;
