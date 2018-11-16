@@ -74,8 +74,8 @@ p{
         font-weight: 200;
         font-size: 16pt;
         font-style: italic;
-        line-height: 100%;
-        color:#134e5e;
+        line-height: 2;
+        color: #134e5e;
         margin-bottom: 0.5em;
         margin-top: 1.5em;
         display: block;
@@ -90,7 +90,7 @@ p{
         font-size: 16pt;
         font-style: italic;
         line-height: 100%;
-        color:#134e5e;
+        color: #134e5e;
         margin-bottom: 0.5em;
         margin-top: 1.5em;
         display: block;
