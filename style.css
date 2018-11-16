@@ -29,7 +29,7 @@ p{
         font-size: 100%;
         text-align: justify;
         text-justify:inter-word;
-	    color :black;
+	 color :black;
     }
     div.text_cell code {
         background: transparent;
@@ -89,7 +89,7 @@ p{
         font-weight: 200;
         font-size: 16pt;
         font-style: italic;
-        line-height: 2;
+        line-height: 2.5;
         color: #134e5e;
         margin-bottom: 0.5em;
         margin-top: 1.5em;
