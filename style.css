@@ -28,7 +28,16 @@
         font-family:  'Source Code Pro', Consolas, monocco, monospace;
    }
     h1 {
-        font-family: 'Varela Round', sans-serif;
+        font-family:  "cmu-text", "Times New Roman", serif !important;
+    font-size: 1.6rem !important;
+    font-weight: 300 !important;
+    color: #000000 !important;
+    /* letter-spacing: 3px !important; */
+    text-transform: normal !important;
+    text-align: center !important;
+    padding-top:  3rem;
+    padding-bottom: 3rem;
+    /*border-bottom: 1px dotted #000000 !important;*/
 	}
 
     div.input_area {
