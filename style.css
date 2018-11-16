@@ -5,6 +5,12 @@
 .CodeMirror pre {
     font-family: 'Varela Round', Consolas, monocco, monospace;
 }
+p{
+	margin-top: 2rem;
+	color: #134e5e;
+	font-size: 2rem;
+	line-height: 1;
+}
     div.cell{
 	    height: 100%;
         width: 950px;
