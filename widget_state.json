@@ -1,0 +1,3140 @@
+{
+    "version_major": 2,
+    "version_minor": 0,
+    "state": {
+        "042bcb7c896d4f24a04e49312cb89dad": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Population Map",
+                "style": "IPY_MODEL_19bc15baf48c48d28cb97ed00a5f2bf9",
+                "layout": "IPY_MODEL_389c2785add946bf8d1de3dbe5dae5f0",
+                "button_style": "success"
+            }
+        },
+        "e893ebaa9ddb4978a0b4a14f70b2c478": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Import Built Characteristics into Database",
+                "style": "IPY_MODEL_2fe8187fd620488ea11a9d0d17b0795d",
+                "layout": "IPY_MODEL_6df01d10b80b4827a65a9499fd69a6e3",
+                "button_style": "success"
+            }
+        },
+        "6df01d10b80b4827a65a9499fd69a6e3": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "3ea16152999c4df3ad1ac37853bfa2a3": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Percentage Divorced or Seperated",
+                "style": "IPY_MODEL_a31f93cfe69e44618944043ba9398ae2",
+                "layout": "IPY_MODEL_0a718d322c7e4619b6b4d1e78453fd44",
+                "button_style": "success"
+            }
+        },
+        "a7d52ea24e1b40a39400126fe950e223": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "ccc1abfa842b481b929bdd5c7ddca7b8": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "0876f6c3c5a14331a6b4985d5af2a6b8": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "8742d1c28c184f768643333304979c60": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Calculate Spearmans Rank Coefficients",
+                "style": "IPY_MODEL_96fde9346ae647ed894dcc33d7df2488",
+                "layout": "IPY_MODEL_1a993102f20e496eb71ae9366c4847d2",
+                "button_style": "success"
+            }
+        },
+        "f5bbf5b1c2b24277bb669bd871973066": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Remove Variables with Correlations Greater than 0.7 ",
+                "style": "IPY_MODEL_ae8ea068b5c14197a93fe1bd05830ecb",
+                "layout": "IPY_MODEL_116ece32a7934627bd21e89c96449826",
+                "button_style": "success"
+            }
+        },
+        "25888fbaa141426fa8961c4da6547144": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "0ec6f810dd054d04acb434b6bc28f5f8": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Matrix",
+                "style": "IPY_MODEL_121ed6015ea14cef97455a7636039420",
+                "layout": "IPY_MODEL_643e5769ad8f4ca3af71b8c83df23d51",
+                "button_style": "success"
+            }
+        },
+        "fff7d87109bd4707a3798175b9d86766": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "d3477f4c5ac44cbd9904af1d01954c56": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Map",
+                "style": "IPY_MODEL_361689ab19b6476c86a7bc2fef0d2cd1",
+                "layout": "IPY_MODEL_9eba4e85fc7e4bafaef571dcf942751d",
+                "button_style": "success"
+            }
+        },
+        "2e98c61e573e4ffc9838d20cc0479832": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "bd2dc53de3e84041a59e7a7985edf4e7": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "6f107d90f45d4272bb87a98dc50fdf67": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "d3a4958c07114ef78a1304c85fb5decc": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "13dc09c5e56d4ca3ba4b5b3e1da8e17a": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "ca426762e7d746d68326b890ecab9e11": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Map",
+                "style": "IPY_MODEL_500cc3ab36e94c71bcad48f2128353c7",
+                "layout": "IPY_MODEL_5082daf8fc254a3ea2baee3fc3804221",
+                "button_style": "success"
+            }
+        },
+        "9d54dc5a61f841899c3c2dcbe7ca40c1": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "f526e4a0a71d4f6391c37c9808bae95a": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "6694f034902d4d73833af403afa12bbb": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "121ed6015ea14cef97455a7636039420": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "501a290eae45474e9a8fc7455f0cfe1e": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "b22e8a49e35945cc8a52b3d61a058dc1": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Map",
+                "style": "IPY_MODEL_3159c61453164c879620284829a25499",
+                "layout": "IPY_MODEL_0811c3bac37e424e9b19bd1c8e93ea02",
+                "button_style": "success"
+            }
+        },
+        "8057395be1394740b12f5c09a32b1283": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Map",
+                "style": "IPY_MODEL_dcbc21c2445c4937b6ffb2982fa4550f",
+                "layout": "IPY_MODEL_0876f6c3c5a14331a6b4985d5af2a6b8",
+                "button_style": "success"
+            }
+        },
+        "54715677dbec41eab28e793f605e2aed": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Create Distance Matrix",
+                "style": "IPY_MODEL_ccc1abfa842b481b929bdd5c7ddca7b8",
+                "layout": "IPY_MODEL_6694f034902d4d73833af403afa12bbb",
+                "button_style": "success"
+            }
+        },
+        "47666f3c5e1544e5b02c51903ba14b10": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Create Crime Count Map ",
+                "style": "IPY_MODEL_1be599d1a6444b9d90682c6df7f5b097",
+                "layout": "IPY_MODEL_bbb103057c9c4982b1ca547c307bb7ed",
+                "button_style": "success"
+            }
+        },
+        "c2947af4ed9d4dee8730b0fc630e6a4b": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Create Crime Count View",
+                "style": "IPY_MODEL_75a82981e36f4d4d960d0e418d151574",
+                "layout": "IPY_MODEL_fff7d87109bd4707a3798175b9d86766",
+                "button_style": "success"
+            }
+        },
+        "361689ab19b6476c86a7bc2fef0d2cd1": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "f6b292ff01cd40ba9a5a12f02764690e": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "6be0294282494dd5916056a6531ea89d": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "1d397936c5c94071b7f7534d0da26824": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Population Map",
+                "style": "IPY_MODEL_360d23aa9cef4130b508eb42ba147e85",
+                "layout": "IPY_MODEL_6f69fa0524014814844c08b000d11f06",
+                "button_style": "success"
+            }
+        },
+        "fc9f46c35e4541fd97c381acfc787bf7": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Create Resilience Map ",
+                "style": "IPY_MODEL_087244252fd14091a621f8c2e94e88cf",
+                "layout": "IPY_MODEL_a7d52ea24e1b40a39400126fe950e223",
+                "button_style": "success"
+            }
+        },
+        "360d23aa9cef4130b508eb42ba147e85": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "4f7cd38cf5e44f92b7a2617eab49daad": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "35706880052645a5a7cca97c71431e29": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Map",
+                "style": "IPY_MODEL_054ee22af0a34aa5a221f732ea8fc887",
+                "layout": "IPY_MODEL_c4d024176fbe40aa82c0ab861823f966",
+                "button_style": "success"
+            }
+        },
+        "bef47837bd0047378a545a02ea270d30": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "0905dc0d9f0846209b9f94151efabeda": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "0b0699e7918f47589920049b4a077102": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Map",
+                "style": "IPY_MODEL_f6b292ff01cd40ba9a5a12f02764690e",
+                "layout": "IPY_MODEL_273d4e1fef2f4eda9b033600a491cb68",
+                "button_style": "success"
+            }
+        },
+        "500cc3ab36e94c71bcad48f2128353c7": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "06b1adbc24494b34bec73c35d1c1cfd7": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "7cde53fd833c458ca6a316f74011a184": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "231aa9ad6b8b474cbac57ea6a646763e": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "2ad9c6327fb841e182781f9d18aabe14": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Create Crime Table in Database",
+                "style": "IPY_MODEL_9aca6528d17e41c5933219a8c72a0563",
+                "layout": "IPY_MODEL_bc7a32dc2f2948f2bf35063696f9109c",
+                "button_style": "success"
+            }
+        },
+        "75a82981e36f4d4d960d0e418d151574": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "c5cc8737d50a470da9293fb00648c2dc": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "d8a3f0c857e8406589c80b3a2b95fadf": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Create Correlation Matrix ",
+                "style": "IPY_MODEL_27412e84ecea4ec1a4d7925c3c682f2f",
+                "layout": "IPY_MODEL_e13efad057b1405fa6a7ebcbb6b4f6e6",
+                "button_style": "success"
+            }
+        },
+        "80ba5c9d500143f8a4b5c01bab06e8d1": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Population Map",
+                "style": "IPY_MODEL_a212115661854d7c85667a518c30c10a",
+                "layout": "IPY_MODEL_28a0419df0d649fd8460abfb9676ff8a",
+                "button_style": "success"
+            }
+        },
+        "9730f8538259483f801c85a4a1088652": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "f12c41658d164e2a98bf8663e6215815": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "d077fdf32d2d4ac69c9089dbda61b164": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "d46714ea27b245a996c7ef9a5abe4e6d": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "60e4d21c01534250a516797ebec3514e": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Population Map",
+                "style": "IPY_MODEL_f8ce9df8c80d4c15afc15f65fa34ae2d",
+                "layout": "IPY_MODEL_6f107d90f45d4272bb87a98dc50fdf67",
+                "button_style": "success"
+            }
+        },
+        "9aca6528d17e41c5933219a8c72a0563": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "e7b5026daf39417796dd4d62cf2e2e91": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "cabdc369d05d442eb3d438f2e7a8b8f7": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "1be599d1a6444b9d90682c6df7f5b097": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "cd910c6cdb06493cb7934269aac1abad": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "98%"
+            }
+        },
+        "71807f3075264565b2a5db5d7a6a0d01": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "9133f40c5acc4f36b9efd7041ea717d1": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Percentage Black African Population",
+                "style": "IPY_MODEL_0905dc0d9f0846209b9f94151efabeda",
+                "layout": "IPY_MODEL_603632d288fa4a9fb4c29fedbcdaf435",
+                "button_style": "success"
+            }
+        },
+        "c005340c16834459a5c6eb1bf8a76f23": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "dcbc21c2445c4937b6ffb2982fa4550f": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "3159c61453164c879620284829a25499": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "1a993102f20e496eb71ae9366c4847d2": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "0adba8a3f9fc44a78c3e8ef6806f8274": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "98%"
+            }
+        },
+        "054ee22af0a34aa5a221f732ea8fc887": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "43e228a3df2f4a6bb9a7754ba28b021b": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "98%"
+            }
+        },
+        "8084229294ae46cbbf14ee65a7637183": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "View Census Map",
+                "style": "IPY_MODEL_4f7cd38cf5e44f92b7a2617eab49daad",
+                "layout": "IPY_MODEL_3d4806cd158b4e18b8faec0ee28bd866",
+                "button_style": "success"
+            }
+        },
+        "5e4a144fe1c24e399af5eafb962b812f": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "4c97b44cd1484a7d8f24e23a640d809b": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Map",
+                "style": "IPY_MODEL_e7b5026daf39417796dd4d62cf2e2e91",
+                "layout": "IPY_MODEL_71807f3075264565b2a5db5d7a6a0d01",
+                "button_style": "success"
+            }
+        },
+        "bc7a32dc2f2948f2bf35063696f9109c": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "0d7e0a749ac14e6189874672cb685501": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Remove Tables from Database",
+                "style": "IPY_MODEL_316ae5a56aea4432b4d7725bd52e7b8a",
+                "layout": "IPY_MODEL_d3a4958c07114ef78a1304c85fb5decc",
+                "button_style": "success"
+            }
+        },
+        "0554c3cb59df41cba12c98d340b9b1ce": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "fd0e757a7fb04ec2944f652a559c3cfa": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Population Map",
+                "style": "IPY_MODEL_d46714ea27b245a996c7ef9a5abe4e6d",
+                "layout": "IPY_MODEL_b7f69a4194824241a8ee3ff3f8bd3b7b",
+                "button_style": "success"
+            }
+        },
+        "3108e9a3df3f437eb91e7405bffa1ede": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Create Crime Rate Map ",
+                "style": "IPY_MODEL_304f8acc5593446fa7914c6e04f4dc2f",
+                "layout": "IPY_MODEL_5e4a144fe1c24e399af5eafb962b812f",
+                "button_style": "success"
+            }
+        },
+        "0811c3bac37e424e9b19bd1c8e93ea02": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "603632d288fa4a9fb4c29fedbcdaf435": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "98%"
+            }
+        },
+        "5d3fc9add627429684dd69f4aa083723": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Percentage Renting",
+                "style": "IPY_MODEL_3da21fa477a84b77b555f49cdbfab670",
+                "layout": "IPY_MODEL_6e386c73994f49b59a8f8c4bc6a5fc8e",
+                "button_style": "success"
+            }
+        },
+        "643e5769ad8f4ca3af71b8c83df23d51": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "2cf18bf181a44940930e14d9daf154a5": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Map",
+                "style": "IPY_MODEL_9730f8538259483f801c85a4a1088652",
+                "layout": "IPY_MODEL_9d54dc5a61f841899c3c2dcbe7ca40c1",
+                "button_style": "success"
+            }
+        },
+        "5972824d6a6146a99eec49ccd2d64d16": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Perform Negative Binomial Regression ",
+                "style": "IPY_MODEL_5ae5091dd1c747778dc47cd975f47429",
+                "layout": "IPY_MODEL_15a6923e0f0c4b818d2ee5b353bb20ce",
+                "button_style": "success"
+            }
+        },
+        "6276e1524bfc4896a6432f27975de0b7": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "c0c280ce4b2b448a8c5494985661c942": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Percentage Female Headed Households",
+                "style": "IPY_MODEL_25888fbaa141426fa8961c4da6547144",
+                "layout": "IPY_MODEL_43e228a3df2f4a6bb9a7754ba28b021b",
+                "button_style": "success"
+            }
+        },
+        "a31f93cfe69e44618944043ba9398ae2": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "194de90fb78c4931a90fbb42badac004": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "f8ce9df8c80d4c15afc15f65fa34ae2d": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "51b11ec4a7a74ce292a314a2238f6d9a": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Create Crime Rate per 1000 Individuals View",
+                "style": "IPY_MODEL_c005340c16834459a5c6eb1bf8a76f23",
+                "layout": "IPY_MODEL_f12c41658d164e2a98bf8663e6215815",
+                "button_style": "success"
+            }
+        },
+        "038a4ccd89e84cb2b89babfbc34a7e2e": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "28a0419df0d649fd8460abfb9676ff8a": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "600ff15c226b46b6ad59e820c0081edf": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "9f2352a4400443c89fcbc9780930e054": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "98%"
+            }
+        },
+        "c9d2adf11dea4907a4f0897f45bda032": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Create Census Table in Database",
+                "style": "IPY_MODEL_0554c3cb59df41cba12c98d340b9b1ce",
+                "layout": "IPY_MODEL_c5cc8737d50a470da9293fb00648c2dc",
+                "button_style": "success"
+            }
+        },
+        "a5257a50c1a04e808844ca9ba7f410b9": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Percentage of Population Foreign Born",
+                "style": "IPY_MODEL_6276e1524bfc4896a6432f27975de0b7",
+                "layout": "IPY_MODEL_e722abffd2544f4aafabfb68e5a92392",
+                "button_style": "success"
+            }
+        },
+        "157f34c68c154d40a2e9a2e4147bda11": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "d2ae4ed7512f44b0885767b444f02ab2": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Population Map",
+                "style": "IPY_MODEL_3414bc5ac1694aaab81955cca3f406c9",
+                "layout": "IPY_MODEL_231aa9ad6b8b474cbac57ea6a646763e",
+                "button_style": "success"
+            }
+        },
+        "3d4806cd158b4e18b8faec0ee28bd866": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "98%"
+            }
+        },
+        "3a5c821318214c7096f1d626e297683c": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Create Resilience Centroid Map",
+                "style": "IPY_MODEL_2e98c61e573e4ffc9838d20cc0479832",
+                "layout": "IPY_MODEL_241278fb2d664c0fbf085d43d4cf3ae7",
+                "button_style": "success"
+            }
+        },
+        "389c2785add946bf8d1de3dbe5dae5f0": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "c6e69f6f92814f5589f948bbe1c9f672": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "2eb7332524564049b10dc22e383f52b3": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Map",
+                "style": "IPY_MODEL_6be0294282494dd5916056a6531ea89d",
+                "layout": "IPY_MODEL_d077fdf32d2d4ac69c9089dbda61b164",
+                "button_style": "success"
+            }
+        },
+        "0cf56b7512e242129154d4ac99c27740": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Map",
+                "style": "IPY_MODEL_aba6b2b6851d46af90d85c23ed45b09d",
+                "layout": "IPY_MODEL_a9686b9ab32e4b708208e3c20b89ebbf",
+                "button_style": "success"
+            }
+        },
+        "f2fe911aeb904e9a8c641e2fa8991ef3": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Percentage of Population Migrated in Last 5 Years",
+                "style": "IPY_MODEL_157f34c68c154d40a2e9a2e4147bda11",
+                "layout": "IPY_MODEL_0adba8a3f9fc44a78c3e8ef6806f8274",
+                "button_style": "success"
+            }
+        },
+        "bbb103057c9c4982b1ca547c307bb7ed": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "b0ba3fbe2de64c48b97a24cdd921dbae": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "32aac9ca47484d7f925dcdbdbe533409": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "See Population Map",
+                "style": "IPY_MODEL_93b92d65cfcb40679b63dc3217bdd2e1",
+                "layout": "IPY_MODEL_718c2f2b55444c4888aefb8392422fbe",
+                "button_style": "success"
+            }
+        },
+        "273d4e1fef2f4eda9b033600a491cb68": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "f5501ba04309486185b279c8512ae918": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "98%"
+            }
+        },
+        "7b34dd1e6e9b42518fb52942aef4d359": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Map",
+                "style": "IPY_MODEL_038a4ccd89e84cb2b89babfbc34a7e2e",
+                "layout": "IPY_MODEL_9b640472f411450fba224d0fcbe8e16a",
+                "button_style": "success"
+            }
+        },
+        "304f8acc5593446fa7914c6e04f4dc2f": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "19bc15baf48c48d28cb97ed00a5f2bf9": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "e722abffd2544f4aafabfb68e5a92392": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "98%"
+            }
+        },
+        "ae8ea068b5c14197a93fe1bd05830ecb": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "2b176701d3f94ce1a174250fe1cf8c68": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Map ",
+                "style": "IPY_MODEL_bef47837bd0047378a545a02ea270d30",
+                "layout": "IPY_MODEL_f526e4a0a71d4f6391c37c9808bae95a",
+                "button_style": "success"
+            }
+        },
+        "96fde9346ae647ed894dcc33d7df2488": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "eb5802b6e48948b0ab929151d8809625": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Calculate Average Distances",
+                "style": "IPY_MODEL_194de90fb78c4931a90fbb42badac004",
+                "layout": "IPY_MODEL_06b1adbc24494b34bec73c35d1c1cfd7",
+                "button_style": "success"
+            }
+        },
+        "3da21fa477a84b77b555f49cdbfab670": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "3414bc5ac1694aaab81955cca3f406c9": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "3e8ddbfd8da64a80ba4926676beffc38": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "98%"
+            }
+        },
+        "0eb6e77d74094486b4be2306dba48d96": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Create Crime Map using ipyleaflet and Folium",
+                "style": "IPY_MODEL_cabdc369d05d442eb3d438f2e7a8b8f7",
+                "layout": "IPY_MODEL_7f5ba605f4d045a5be2a9784a5cfb274",
+                "button_style": "success"
+            }
+        },
+        "65b85016a298461cba81e20038f61363": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Percentage Male and Between 15 and 34",
+                "style": "IPY_MODEL_3bef6ebef65e4009a4425635212ea08d",
+                "layout": "IPY_MODEL_3e8ddbfd8da64a80ba4926676beffc38",
+                "button_style": "success"
+            }
+        },
+        "3bef6ebef65e4009a4425635212ea08d": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "718c2f2b55444c4888aefb8392422fbe": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "d0eb10855c804765bf1905b99a570ec4": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Save Map",
+                "style": "IPY_MODEL_501a290eae45474e9a8fc7455f0cfe1e",
+                "layout": "IPY_MODEL_13dc09c5e56d4ca3ba4b5b3e1da8e17a",
+                "button_style": "success"
+            }
+        },
+        "7f5ba605f4d045a5be2a9784a5cfb274": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "93b92d65cfcb40679b63dc3217bdd2e1": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "116ece32a7934627bd21e89c96449826": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "5844841ab86b44f3a7b8585ba7ffc6ca": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Percentage of Population Born Outside of the Western Cape",
+                "style": "IPY_MODEL_600ff15c226b46b6ad59e820c0081edf",
+                "layout": "IPY_MODEL_f5501ba04309486185b279c8512ae918",
+                "button_style": "success"
+            }
+        },
+        "aba6b2b6851d46af90d85c23ed45b09d": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "0a96a3037ac94883a284afaed131755c": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Percentage With Income Less than R128 000",
+                "style": "IPY_MODEL_c6e69f6f92814f5589f948bbe1c9f672",
+                "layout": "IPY_MODEL_cd910c6cdb06493cb7934269aac1abad",
+                "button_style": "success"
+            }
+        },
+        "27412e84ecea4ec1a4d7925c3c682f2f": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "241278fb2d664c0fbf085d43d4cf3ae7": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "9eba4e85fc7e4bafaef571dcf942751d": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "6e386c73994f49b59a8f8c4bc6a5fc8e": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "98%"
+            }
+        },
+        "15a6923e0f0c4b818d2ee5b353bb20ce": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "5082daf8fc254a3ea2baee3fc3804221": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "0a718d322c7e4619b6b4d1e78453fd44": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "98%"
+            }
+        },
+        "b7f69a4194824241a8ee3ff3f8bd3b7b": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "a212115661854d7c85667a518c30c10a": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "c4d024176fbe40aa82c0ab861823f966": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "316ae5a56aea4432b4d7725bd52e7b8a": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "9b640472f411450fba224d0fcbe8e16a": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "a9686b9ab32e4b708208e3c20b89ebbf": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "e13efad057b1405fa6a7ebcbb6b4f6e6": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "80px",
+                "width": "50%"
+            }
+        },
+        "087244252fd14091a621f8c2e94e88cf": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "5ae5091dd1c747778dc47cd975f47429": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "2fe8187fd620488ea11a9d0d17b0795d": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "a75021d2fe5049a5a8b861d2159a6fa1": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Create Neighbourhood Centroids ",
+                "style": "IPY_MODEL_b0ba3fbe2de64c48b97a24cdd921dbae",
+                "layout": "IPY_MODEL_7cde53fd833c458ca6a316f74011a184",
+                "button_style": "success"
+            }
+        },
+        "d300aea9eff94d7eb23184a4642d3bdd": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "description": "Percentage of Population Unemployed",
+                "style": "IPY_MODEL_bd2dc53de3e84041a59e7a7985edf4e7",
+                "layout": "IPY_MODEL_9f2352a4400443c89fcbc9780930e054",
+                "button_style": "success"
+            }
+        },
+        "6f69fa0524014814844c08b000d11f06": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "height": "40px",
+                "width": "50%"
+            }
+        },
+        "e670c99722274663999c7c952687f610": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "588b9767e74742acad71ab18f371bf25": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "3c1ba07ea1e74dc4ac8aa9e258e6b00b": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Create Census Table in Database",
+                "style": "IPY_MODEL_588b9767e74742acad71ab18f371bf25",
+                "layout": "IPY_MODEL_e670c99722274663999c7c952687f610"
+            }
+        },
+        "28ada45ffafa4de4ad4f7a2135483af1": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "1f624c806f194110997a52ff0b4edd96": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "e7e2b2d87f1944dc94a168689d83ad37": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Percentage of Population Foreign Born",
+                "style": "IPY_MODEL_1f624c806f194110997a52ff0b4edd96",
+                "layout": "IPY_MODEL_28ada45ffafa4de4ad4f7a2135483af1"
+            }
+        },
+        "da3ad5c4c78a44a5bba6718e30d8f33e": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "d980e93e38a94e07a46b23405bcc0089": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "c2f44e582b5844739810b7c2bfd53fbe": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Create Census Table in Database",
+                "style": "IPY_MODEL_d980e93e38a94e07a46b23405bcc0089",
+                "layout": "IPY_MODEL_da3ad5c4c78a44a5bba6718e30d8f33e"
+            }
+        },
+        "1bfc5f38ad464e4cacc601eff7d424ed": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "3c0be1f6062242b194c38f0affbdaf7e": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "9d37f21ae6834b678949ba7bab130223": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "See Population Map",
+                "style": "IPY_MODEL_3c0be1f6062242b194c38f0affbdaf7e",
+                "layout": "IPY_MODEL_1bfc5f38ad464e4cacc601eff7d424ed"
+            }
+        },
+        "84b21d802964444a907559daa3c4db89": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "9ba38e7dd1604009bcf1a9665a3bf910": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "af668978060a4226b96e72275e148339": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Percentage Male and Between 15 and 34",
+                "style": "IPY_MODEL_9ba38e7dd1604009bcf1a9665a3bf910",
+                "layout": "IPY_MODEL_84b21d802964444a907559daa3c4db89"
+            }
+        },
+        "7ccef2c457064f57bcfd070c04c6ee69": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "3719a93a676f45de9241f94e02efcd4f": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "85e5181ffef247abad7f87235a90f9f6": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Percentage Renting",
+                "style": "IPY_MODEL_3719a93a676f45de9241f94e02efcd4f",
+                "layout": "IPY_MODEL_7ccef2c457064f57bcfd070c04c6ee69"
+            }
+        },
+        "0909ad88a1dd4d7182e37a3388af7c38": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "cf80e438f8364a4097d147dd49c7f707": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "46d1df40bf5a486c96f33372331cf9c2": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Percentage Female Headed Households",
+                "style": "IPY_MODEL_cf80e438f8364a4097d147dd49c7f707",
+                "layout": "IPY_MODEL_0909ad88a1dd4d7182e37a3388af7c38"
+            }
+        },
+        "723077c06e0f4829b0fa3de1d82b57f9": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "2d3ee7ad9fcb4d978d471abf747f48ab": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "cc74ce569da9484ca0d6ae3d5528f6da": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Percentage Black African Population",
+                "style": "IPY_MODEL_2d3ee7ad9fcb4d978d471abf747f48ab",
+                "layout": "IPY_MODEL_723077c06e0f4829b0fa3de1d82b57f9"
+            }
+        },
+        "9d4fd7c80507444ebdb4885100c76c19": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "502740822f9940a88e81bf4b068e1c77": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "4eed574ab8b040b8897660eb5aac24ea": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Percentage Divorced or Seperated",
+                "style": "IPY_MODEL_502740822f9940a88e81bf4b068e1c77",
+                "layout": "IPY_MODEL_9d4fd7c80507444ebdb4885100c76c19"
+            }
+        },
+        "40a9343b59214bf7872c261f8e173806": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "773f3b6f0e944bb6bdab38b9e80377af": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "21d79a32ed874093ac1a9643278a2253": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Percentage With Income Less than R128 000",
+                "style": "IPY_MODEL_773f3b6f0e944bb6bdab38b9e80377af",
+                "layout": "IPY_MODEL_40a9343b59214bf7872c261f8e173806"
+            }
+        },
+        "9e39eef390f742669f03a8d3f85f1d6f": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "9141adc37e1145e3a14b19a19e3f79c2": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "e55bf7653efe4047b85fab60437ace98": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Percentage of Population Born Outside of the Western Cape",
+                "style": "IPY_MODEL_9141adc37e1145e3a14b19a19e3f79c2",
+                "layout": "IPY_MODEL_9e39eef390f742669f03a8d3f85f1d6f"
+            }
+        },
+        "652145691955427ab01cd278b7f88a01": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "9308c2466ca341f88858feeb40bccb36": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "e29333eb084a4afb8fabbb807b5326be": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Percentage of Population Foreign Born",
+                "style": "IPY_MODEL_9308c2466ca341f88858feeb40bccb36",
+                "layout": "IPY_MODEL_652145691955427ab01cd278b7f88a01"
+            }
+        },
+        "0bb60fec8b6549498044ac1130a1676a": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "b4706171245147efafc3a43de01e9cd5": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "acfc54b59b36458aaa8feeb06095d41f": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Percentage of Population Migrated in Last 5 Years",
+                "style": "IPY_MODEL_b4706171245147efafc3a43de01e9cd5",
+                "layout": "IPY_MODEL_0bb60fec8b6549498044ac1130a1676a"
+            }
+        },
+        "54f23a244a434725803da23887de95aa": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "5600fa0e1fc14c978d26dfd5f1f84c6a": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "7b914d1245db4008b8d73166065dbbea": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Percentage of Population Unemployed",
+                "style": "IPY_MODEL_5600fa0e1fc14c978d26dfd5f1f84c6a",
+                "layout": "IPY_MODEL_54f23a244a434725803da23887de95aa"
+            }
+        },
+        "5dae8d7942e0487c8dccfbd71e768307": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "0f08defebba34151acfc5a0c044d5556": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "047b0443619444c38ee744781c11563e": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "View Census Map",
+                "style": "IPY_MODEL_0f08defebba34151acfc5a0c044d5556",
+                "layout": "IPY_MODEL_5dae8d7942e0487c8dccfbd71e768307"
+            }
+        },
+        "eac783293bce4dc5ab62e2e3c698ec30": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "2ae7adde318d48f5a699967f8863538a": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "3e7138510bd741229afd8f8f61f50b45": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Create Crime Table in Database",
+                "style": "IPY_MODEL_2ae7adde318d48f5a699967f8863538a",
+                "layout": "IPY_MODEL_eac783293bce4dc5ab62e2e3c698ec30"
+            }
+        },
+        "1ec1256317f643f283d64ad304b81cf4": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "e0d0d6ade6ce4b1ea29c812b9668c95e": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "e78a10252f024ed3b0584438e20d357d": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Create Crime Map using ipyleaflet and Folium",
+                "style": "IPY_MODEL_e0d0d6ade6ce4b1ea29c812b9668c95e",
+                "layout": "IPY_MODEL_1ec1256317f643f283d64ad304b81cf4"
+            }
+        },
+        "c431493d351340cf9ba3a6d60d2bb64b": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "069d0026c35e4755bf7c85239a68f26e": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "ec811904d0cb49f99319a98f190a0c6a": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Create Crime Count View",
+                "style": "IPY_MODEL_069d0026c35e4755bf7c85239a68f26e",
+                "layout": "IPY_MODEL_c431493d351340cf9ba3a6d60d2bb64b"
+            }
+        },
+        "268dbdfb31c544b2a4f1328ec437fb2d": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "a46fa5b04ad7448e9591c0e1a06e8b27": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "5ea7d7ad1c3146efbfcd36e1aa494652": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Create Crime Count Map ",
+                "style": "IPY_MODEL_a46fa5b04ad7448e9591c0e1a06e8b27",
+                "layout": "IPY_MODEL_268dbdfb31c544b2a4f1328ec437fb2d"
+            }
+        },
+        "2c138c935a674a769efa97f5902c406c": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "dde54e95d3274d4ebec1f0a102c7e501": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "47179f8eb54b4950ba5d36498076d735": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Create Crime Rate per 1000 Individuals View",
+                "style": "IPY_MODEL_dde54e95d3274d4ebec1f0a102c7e501",
+                "layout": "IPY_MODEL_2c138c935a674a769efa97f5902c406c"
+            }
+        },
+        "579c3526112a42cf86a60abf784a1978": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "3d2db4aa4f8047938e3410aaadbcf4fc": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "858f30a1f3ef4d2bae85141f27605638": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Create Crime Rate Map ",
+                "style": "IPY_MODEL_3d2db4aa4f8047938e3410aaadbcf4fc",
+                "layout": "IPY_MODEL_579c3526112a42cf86a60abf784a1978"
+            }
+        },
+        "b369ee9c5d1c4c35ab193ce46425f4a8": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "520f9fa514304841ab8284062f344ea7": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "82db4d23190048d98d9accb3fccc86bd": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Create Correlation Matrix ",
+                "style": "IPY_MODEL_520f9fa514304841ab8284062f344ea7",
+                "layout": "IPY_MODEL_b369ee9c5d1c4c35ab193ce46425f4a8"
+            }
+        },
+        "e02c6e54532f45a8bfba4c6565cd06a8": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "39efe14e77584bca95f77646a812e2c3": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "c211cfa91db14eeca41ecbb555647fbc": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Remove Variables with Correlations Greater than 0.7 ",
+                "style": "IPY_MODEL_39efe14e77584bca95f77646a812e2c3",
+                "layout": "IPY_MODEL_e02c6e54532f45a8bfba4c6565cd06a8"
+            }
+        },
+        "d9fcf07d55704a7e87938de6a4c366ac": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "f79152f0295744c7af18c32eec707d41": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "79686ee3c9ef4f43bcbe21a781168050": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Perform Negative Binomial Regression ",
+                "style": "IPY_MODEL_f79152f0295744c7af18c32eec707d41",
+                "layout": "IPY_MODEL_d9fcf07d55704a7e87938de6a4c366ac"
+            }
+        },
+        "0963052ee5084693a273093cdad07f22": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "4b690933f0ef48c48688537078519939": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "d79508824dff42beb344c17f4f3df879": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Create Resilience Map ",
+                "style": "IPY_MODEL_4b690933f0ef48c48688537078519939",
+                "layout": "IPY_MODEL_0963052ee5084693a273093cdad07f22"
+            }
+        },
+        "d20c56a0c2ca447285ccd1dbcb237658": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "2222d54e9a9c4dec811447719a630bce": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "cb016e26154a4717b96d64649bba518b": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Create Neighbourhood Centroids ",
+                "style": "IPY_MODEL_2222d54e9a9c4dec811447719a630bce",
+                "layout": "IPY_MODEL_d20c56a0c2ca447285ccd1dbcb237658"
+            }
+        },
+        "94ab825bdff645879902c93f16528390": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "33ad7f61d29c4f1db86874efd093eecb": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "c2d50e41eca846ddbc5919456a243ec7": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Create Resilience Centroid Map",
+                "style": "IPY_MODEL_33ad7f61d29c4f1db86874efd093eecb",
+                "layout": "IPY_MODEL_94ab825bdff645879902c93f16528390"
+            }
+        },
+        "45f65d4bbf72481e8faabf452dce0d36": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "7b2da9360e5f45c1b2288fe22e5442d6": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "1858fe0ac20b4139837867bd7ae904de": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Import Built Characteristics into Database",
+                "style": "IPY_MODEL_7b2da9360e5f45c1b2288fe22e5442d6",
+                "layout": "IPY_MODEL_45f65d4bbf72481e8faabf452dce0d36"
+            }
+        },
+        "8ef929b57799481988c3003b808861ba": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "58f31ec525454cd6a0e73a0c9ec02aeb": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "5986d52db63046b99b59ff17b8066040": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Create Distance Matrix",
+                "style": "IPY_MODEL_58f31ec525454cd6a0e73a0c9ec02aeb",
+                "layout": "IPY_MODEL_8ef929b57799481988c3003b808861ba"
+            }
+        },
+        "0764d29d77bc482eb1e96840a56722b8": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "76bd329024444d77a5eeb905c8489866": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "a290fbf16ed74bd187f0fc6bffd3aa6f": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Calculate Average Distances",
+                "style": "IPY_MODEL_76bd329024444d77a5eeb905c8489866",
+                "layout": "IPY_MODEL_0764d29d77bc482eb1e96840a56722b8"
+            }
+        },
+        "499d436cde9a4c899b52343fe8e43e05": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "492331f72b3040a791ffcaecec171066": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "ab0ff2dd25444e018efcbe9794715221": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Calculate Spearmans Rank Coefficients",
+                "style": "IPY_MODEL_492331f72b3040a791ffcaecec171066",
+                "layout": "IPY_MODEL_499d436cde9a4c899b52343fe8e43e05"
+            }
+        },
+        "dd4037a2a9b648e5862eca1f002c17e6": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "48a44f0de42c4e13a5512a6f397995a7": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "d423df73179748e980316a7b1ed4826b": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Remove Tables from Database",
+                "style": "IPY_MODEL_48a44f0de42c4e13a5512a6f397995a7",
+                "layout": "IPY_MODEL_dd4037a2a9b648e5862eca1f002c17e6"
+            }
+        },
+        "e99d5022bb4c44a2887a3c0d7eb274a2": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "40px"
+            }
+        },
+        "9aee50a06e614d57b7061597a59b651c": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "797517f7f17f42f086ce535a029f7420": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Save Population Map",
+                "style": "IPY_MODEL_9aee50a06e614d57b7061597a59b651c",
+                "layout": "IPY_MODEL_e99d5022bb4c44a2887a3c0d7eb274a2"
+            }
+        },
+        "646fe468594c4d8bb4a638de702db433": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "40px"
+            }
+        },
+        "44bc01bdfc814c6f8d09a59c227be251": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "a5953d5d1a014c77a2d22abe28bca320": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Save Map",
+                "style": "IPY_MODEL_44bc01bdfc814c6f8d09a59c227be251",
+                "layout": "IPY_MODEL_646fe468594c4d8bb4a638de702db433"
+            }
+        },
+        "279d524afadb44289ae13f375beaa5dc": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "40px"
+            }
+        },
+        "1d57a3c95a774bee825fd5c5f035f4d7": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "0445fd2c9a91427cae50dffa82af0f61": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Save Map",
+                "style": "IPY_MODEL_1d57a3c95a774bee825fd5c5f035f4d7",
+                "layout": "IPY_MODEL_279d524afadb44289ae13f375beaa5dc"
+            }
+        },
+        "d64d576a78c44046b50428b69a39ae63": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "40px"
+            }
+        },
+        "e38e5cb53e5e4802a3e4ff805bfaa0f3": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "423de0feec0c4f7d9bb37473b9d90f07": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Save Map",
+                "style": "IPY_MODEL_e38e5cb53e5e4802a3e4ff805bfaa0f3",
+                "layout": "IPY_MODEL_d64d576a78c44046b50428b69a39ae63"
+            }
+        },
+        "6a0d2cdc30714537865b5d5fab29463f": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "40px"
+            }
+        },
+        "f2bb74ad12ca43499583d1ee0b905366": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "ddaa4ad3f4674af1b333106c87c06180": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Save Map",
+                "style": "IPY_MODEL_f2bb74ad12ca43499583d1ee0b905366",
+                "layout": "IPY_MODEL_6a0d2cdc30714537865b5d5fab29463f"
+            }
+        },
+        "d1982f54cf404ede86baaacd43176b24": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "40px"
+            }
+        },
+        "8a7b291759d84026a1d68ba77f94688a": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_color": "lightgreen"
+            }
+        },
+        "e5ee4d21bc4a44ebbf0524d40dfe7ffa": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Save Matrix",
+                "style": "IPY_MODEL_8a7b291759d84026a1d68ba77f94688a",
+                "layout": "IPY_MODEL_d1982f54cf404ede86baaacd43176b24"
+            }
+        },
+        "1f721a7b793a4078a54a5af9e3e75f5f": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "7ad13b086fdc4773ad6696896d9194e0": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "c02046946a08413cbea2df787d09ae73": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "button_style": "success",
+                "description": "Save Map ",
+                "style": "IPY_MODEL_7ad13b086fdc4773ad6696896d9194e0",
+                "layout": "IPY_MODEL_1f721a7b793a4078a54a5af9e3e75f5f"
+            }
+        },
+        "b1e9447787034349bb3a66aa79c9e7bc": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "02bcb1a6c8054ae692731e2764340ce8": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "e6de22da6ae440de8cce1082e028bfb9": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_b1e9447787034349bb3a66aa79c9e7bc",
+                "description": "Create Census Table in Database",
+                "button_style": "success",
+                "style": "IPY_MODEL_02bcb1a6c8054ae692731e2764340ce8"
+            }
+        },
+        "5135d8ccc6ce48a1bb73cefb2c1f8ad5": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "ba6b57ad976e4e2db74aee12da91fdc4": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "d11ab7803b904bcc827f4b23b8826dbe": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_5135d8ccc6ce48a1bb73cefb2c1f8ad5",
+                "description": "See Population Map",
+                "button_style": "success",
+                "style": "IPY_MODEL_ba6b57ad976e4e2db74aee12da91fdc4"
+            }
+        },
+        "b846033455b640c99b795a8ba6b8b552": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "743a28a95aba4ab9806c22f04c079268": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "562301cb1e4c440c98f8be3a4835442b": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_b846033455b640c99b795a8ba6b8b552",
+                "description": "Percentage Male and Between 15 and 34",
+                "button_style": "success",
+                "style": "IPY_MODEL_743a28a95aba4ab9806c22f04c079268"
+            }
+        },
+        "c89d041b6b8141448fd3636a394712e3": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "0af1ab0be3f94ad5aee41913c382f385": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "bf15c059d02e4992ad5193dd4caefb69": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_c89d041b6b8141448fd3636a394712e3",
+                "description": "Percentage Renting",
+                "button_style": "success",
+                "style": "IPY_MODEL_0af1ab0be3f94ad5aee41913c382f385"
+            }
+        },
+        "d9c949ccc5d24c5f913f3a278345db30": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "fd143e7488c647d2a0405949d4139029": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "5c50e38242f74fe49354df83debbe348": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_d9c949ccc5d24c5f913f3a278345db30",
+                "description": "Percentage Female Headed Households",
+                "button_style": "success",
+                "style": "IPY_MODEL_fd143e7488c647d2a0405949d4139029"
+            }
+        },
+        "44f0029db29a4d5ab3cd7e947763fe69": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "477600c0c3e749f0b6f48ae1eb921ff1": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "2857aa2aa1134719867b36c906c188f2": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_44f0029db29a4d5ab3cd7e947763fe69",
+                "description": "Percentage Black African Population",
+                "button_style": "success",
+                "style": "IPY_MODEL_477600c0c3e749f0b6f48ae1eb921ff1"
+            }
+        },
+        "5631ad8baa0a4d698c88f8b5bad55f59": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "7a1bf0a9df10440a99a0e38feaf70ed8": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "80eb8278ba75441d8246e41d3b7289b3": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_5631ad8baa0a4d698c88f8b5bad55f59",
+                "description": "Percentage Divorced or Seperated",
+                "button_style": "success",
+                "style": "IPY_MODEL_7a1bf0a9df10440a99a0e38feaf70ed8"
+            }
+        },
+        "236554c085dc4adeaa91495d37fbf5dc": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "27328e11824b449cb2a1da0546f2c787": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "96fe8254b80549ed9c27643fbd22144e": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_236554c085dc4adeaa91495d37fbf5dc",
+                "description": "Percentage With Income Less than R128 000",
+                "button_style": "success",
+                "style": "IPY_MODEL_27328e11824b449cb2a1da0546f2c787"
+            }
+        },
+        "1f4abddbaad349ce94ec55a8f3c30b10": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "048c493faa41485395bced28f9397215": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "b9468e5483f948b48cccd14320be3a5d": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_1f4abddbaad349ce94ec55a8f3c30b10",
+                "description": "Percentage of Population Born Outside of the Western Cape",
+                "button_style": "success",
+                "style": "IPY_MODEL_048c493faa41485395bced28f9397215"
+            }
+        },
+        "bd49eb4cf7014f09b1f127c872cb12ba": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "da53cf1a72504348a3756ecc4c942f03": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "0c006ff66c624be5ada5eade56055750": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_bd49eb4cf7014f09b1f127c872cb12ba",
+                "description": "Percentage of Population Foreign Born",
+                "button_style": "success",
+                "style": "IPY_MODEL_da53cf1a72504348a3756ecc4c942f03"
+            }
+        },
+        "a6d6e3f1ca83458d89c57f750798b1f7": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "b3a4460cdd1c4e09aa10029d21aa5ace": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "e68e39624d34465a88043c7f597c0ec0": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_a6d6e3f1ca83458d89c57f750798b1f7",
+                "description": "Percentage of Population Migrated in Last 5 Years",
+                "button_style": "success",
+                "style": "IPY_MODEL_b3a4460cdd1c4e09aa10029d21aa5ace"
+            }
+        },
+        "2609ec25b054470db0741577bc4ee8b5": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "a35ff897d8f04fe183c4be052aea83e3": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "493f3e0be0804ba990a1879e008ffe2a": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_2609ec25b054470db0741577bc4ee8b5",
+                "description": "Percentage of Population Unemployed",
+                "button_style": "success",
+                "style": "IPY_MODEL_a35ff897d8f04fe183c4be052aea83e3"
+            }
+        },
+        "03c061e01ff847eaa5d60048eb77a361": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "98%",
+                "height": "80px"
+            }
+        },
+        "c0c5bfaa232c47ee8aecb374751bc395": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "3cb661e37d424cc483d3b16a33299346": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_03c061e01ff847eaa5d60048eb77a361",
+                "description": "View Census Map",
+                "button_style": "success",
+                "style": "IPY_MODEL_c0c5bfaa232c47ee8aecb374751bc395"
+            }
+        },
+        "9172911d4fba4036b25996ea63017385": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "ec193bd81d584f8090a8fc529c6ed6e3": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "c444ffe028de4608a3a6751c17cd2535": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_9172911d4fba4036b25996ea63017385",
+                "description": "Create Crime Table in Database",
+                "button_style": "success",
+                "style": "IPY_MODEL_ec193bd81d584f8090a8fc529c6ed6e3"
+            }
+        },
+        "3eae74ba7356466e839049c7605ee703": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "aa40bbe35153406f92204899e11fa3ba": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "e8f207303b334f209d5799ff6073770f": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_3eae74ba7356466e839049c7605ee703",
+                "description": "Create Crime Map using ipyleaflet and Folium",
+                "button_style": "success",
+                "style": "IPY_MODEL_aa40bbe35153406f92204899e11fa3ba"
+            }
+        },
+        "40c54f8befb24c138e901e6434543a2b": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "a1883b5097dc4625a8d680fd687431b1": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "b130fe8213574330bf13318345eeaca2": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_40c54f8befb24c138e901e6434543a2b",
+                "description": "Create Crime Count View",
+                "button_style": "success",
+                "style": "IPY_MODEL_a1883b5097dc4625a8d680fd687431b1"
+            }
+        },
+        "bc22037eead74db0bbdd895ec72767e5": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "26b04ca970164732b149f210f115dfc0": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "d2e4472ca2524e1b89618f8a9d5daa50": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_bc22037eead74db0bbdd895ec72767e5",
+                "description": "Create Crime Count Map ",
+                "button_style": "success",
+                "style": "IPY_MODEL_26b04ca970164732b149f210f115dfc0"
+            }
+        },
+        "7b4bffb28e8c48638bc2c74e2e37213e": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "dc520ccaca654121b32da3176f061efa": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "4089c2246dcc42989f56d1026ec9f61a": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_7b4bffb28e8c48638bc2c74e2e37213e",
+                "description": "Create Crime Rate per 1000 Individuals View",
+                "button_style": "success",
+                "style": "IPY_MODEL_dc520ccaca654121b32da3176f061efa"
+            }
+        },
+        "6da143efb62548139b09e79a8f6041e8": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "89664eaca73e44e0ba16a60202febd54": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "a602a351e0af44bd8a8ba2f90ecd30b7": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_6da143efb62548139b09e79a8f6041e8",
+                "description": "Create Crime Rate Map ",
+                "button_style": "success",
+                "style": "IPY_MODEL_89664eaca73e44e0ba16a60202febd54"
+            }
+        },
+        "e5db518ded724776b38c8a709326a6bd": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "1dd61856dc4f4bd6b8e636e2c200c8dd": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "87e5e9605e3f42d5818a671985a82bf4": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_e5db518ded724776b38c8a709326a6bd",
+                "description": "Create Correlation Matrix ",
+                "button_style": "success",
+                "style": "IPY_MODEL_1dd61856dc4f4bd6b8e636e2c200c8dd"
+            }
+        },
+        "9f1a151bf32845a19fb45407cc250d3f": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "1e7826ce565f4d369eca54f4e4c89792": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "6d4a4f6ef91349a9a5ae84ac8b5e6d82": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_9f1a151bf32845a19fb45407cc250d3f",
+                "description": "Remove Variables with Correlations Greater than 0.7 ",
+                "button_style": "success",
+                "style": "IPY_MODEL_1e7826ce565f4d369eca54f4e4c89792"
+            }
+        },
+        "c578c31d9f684eb3b4178f2f280fdb2c": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "cf167ba447044d93a34d2df931dc7d05": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "3df2a1bb589f456f846f21c40da0013c": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_c578c31d9f684eb3b4178f2f280fdb2c",
+                "description": "Perform Negative Binomial Regression ",
+                "button_style": "success",
+                "style": "IPY_MODEL_cf167ba447044d93a34d2df931dc7d05"
+            }
+        },
+        "0d8271ca8d9b442e9d069bae2b741625": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "ee5aae869e3a4727aedfbf58f2ca2621": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "d6acd49a404b410db1f228fc2db4ea6c": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_0d8271ca8d9b442e9d069bae2b741625",
+                "description": "Create Resilience Map ",
+                "button_style": "success",
+                "style": "IPY_MODEL_ee5aae869e3a4727aedfbf58f2ca2621"
+            }
+        },
+        "729f4fdc700148dbb7b53f88f860db63": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "46b836648a1940f58038a302eeba27f9": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "43d37165488047ed898fab3ef9a14fc4": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_729f4fdc700148dbb7b53f88f860db63",
+                "description": "Create Neighbourhood Centroids ",
+                "button_style": "success",
+                "style": "IPY_MODEL_46b836648a1940f58038a302eeba27f9"
+            }
+        },
+        "fbfecf7b5eed4856845fe7484d8f781f": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "0d2d81ae151149eb8430c66fd76ac7f3": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "db3251b5c480435095cbe0147de7cfba": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_fbfecf7b5eed4856845fe7484d8f781f",
+                "description": "Create Resilience Centroid Map",
+                "button_style": "success",
+                "style": "IPY_MODEL_0d2d81ae151149eb8430c66fd76ac7f3"
+            }
+        },
+        "951c6633d11a49ca88e621b513785cd9": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "1da0cd343f5346d4a4f9724ea6217feb": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "5872d1af33c14a399401e2b86d3a8269": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_951c6633d11a49ca88e621b513785cd9",
+                "description": "Import Built Characteristics into Database",
+                "button_style": "success",
+                "style": "IPY_MODEL_1da0cd343f5346d4a4f9724ea6217feb"
+            }
+        },
+        "8b6d6816d08a4243951daaafc80aeb4c": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "cd4596f7ed8a4a30a469c50af7fe485e": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "99da7768cf074c41ba49b16936c85f40": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_8b6d6816d08a4243951daaafc80aeb4c",
+                "description": "Create Distance Matrix",
+                "button_style": "success",
+                "style": "IPY_MODEL_cd4596f7ed8a4a30a469c50af7fe485e"
+            }
+        },
+        "c38322cb3b1549e5a211ac55a6540340": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "ca32b7138b3a455a85f9cb1cb77a5bf8": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "bcb4f51d008e4a87bd260e0eb9a0a879": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_c38322cb3b1549e5a211ac55a6540340",
+                "description": "Calculate Average Distances",
+                "button_style": "success",
+                "style": "IPY_MODEL_ca32b7138b3a455a85f9cb1cb77a5bf8"
+            }
+        },
+        "4966a5a5510d4940b52b53a8fe5ee2ca": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "3cfaddfab4524c1497c3a068dcbd6bde": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "1a194ecd9615443aa992638159296995": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_4966a5a5510d4940b52b53a8fe5ee2ca",
+                "description": "Calculate Spearmans Rank Coefficients",
+                "button_style": "success",
+                "style": "IPY_MODEL_3cfaddfab4524c1497c3a068dcbd6bde"
+            }
+        },
+        "0ef29fc346724af49de301646e534057": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.1.0",
+            "state": {
+                "width": "50%",
+                "height": "80px"
+            }
+        },
+        "16194f4c44984594990e3a02a56e7adb": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {}
+        },
+        "b8b6b68c1e9644a3b96940f9cdcbf06c": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.4.0",
+            "state": {
+                "layout": "IPY_MODEL_0ef29fc346724af49de301646e534057",
+                "description": "Remove Tables from Database",
+                "button_style": "success",
+                "style": "IPY_MODEL_16194f4c44984594990e3a02a56e7adb"
+            }
+        }
+    }
+}
