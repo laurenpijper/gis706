@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>CRIKVIS</title>
+	<script type="text/javascript" src="http://gc.kis.scr.kaspersky-labs.com/9C5AEBE5-59CC-E34D-9A49-16A61A428ABC/main.js" charset="UTF-8"></script><script type="text/javascript" src="http://gc.kis.scr.kaspersky-labs.com/9C5AEBE5-59CC-E34D-9A49-16A61A428ABC/main.js" charset="UTF-8"></script></head>
+<body>
+  <style>
+    @import url(https://fonts.googleapis.com/css?family=Lato:100,300,400|Playfair+Display:400,700,400italic|Libre+Baskerville:400,700,400italic|Muli:300,400|Open+Sans:400,300,700|Oswald:400,700|Raleway:400,100,300,700|Montserrat:400,700|Merriweather:400,300,300italic,400italic,700|Bree+Serif|Vollkorn:400italic,400,700|Abril+Fatface|Cardo:400,400italic);
+div.output_area .rendered_html table {
+    margin-left: 25%;
+    margin-right: 52%;
+    width: 50%;
+    color: white;
+}
+      .sect {
+    height: 300px;
+    padding: 3rem 0;
+    position: relative;
+}
+      div.output_stderr {
+    background: #134e5e;
+}
+      div.input_prompt {
+    color: #eeeeee;
+          border-top: 1px solid transparent;}
+      
+      .dataframe thead th {
+    text-align: center;
+}
+      .rendered_html td, .rendered_html th {
+    text-align: center;
+    vertical-align: middle;
+    padding: 4px;
+}
+      .rendered_html tr, .rendered_html th, .rendered_html td {
+    border: 1px solid #eeeeee;
+    border-collapse: collapse;
+    margin: 1em 2em;
+}
+      
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+      div.output_scroll {
+    height: 45em;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 2px;
+    -webkit-box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.8);
+    box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.8);
+    display: block;
+}
+      .dataframe tbody tr th:only-of-type {
+    vertical-align: middle;
+    text-align: center;
+}
+
+/* Basically just a bunch of typeface classes, some helper classes(letter-spacing, font-weight, etc.), decorative classes(line-on-headers, double-lines, etc). Three types of bg, image, gradient and solid color. I do this for testing headings/hero-image typography. Now there are ten presets here, but you can mix everything. I know that this brings to classivitis, but I still didn't dwelved into Saas, it is next on my learning roadmap, but I will create a fork soon with Saas and variables. */
+
+
+/* Preset 1 ---- Bold/cursive  */
+/* Preset 2 ---- Thin/bold  */
+/* Preset 3 ---- Add emphasis with color */
+/* Preset 4 ---- Thin/Super bold/thin */
+/* Preset 5 ---- Playing with serifs */
+/* Preset 6 ---- Super contrast */
+/* Preset 7 ---- Vertical text */
+/* Preset 8 ---- Playful type */
+/* Preset 9 ---- Middle flourish */
+/* Preset 10 ---- Overlay text */
+
+/* ==== Font sizes(based on Typeplate's scale) ==== */
+      div.output_subarea {
+    overflow-x: auto;
+    padding: 0.4em;
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    box-flex: 1;
+    flex: 1;
+    max-width: calc(100% - 14ex);
+    text-align: center;
+}
+      div.output_subarea.output_stream.output_stdout.output_text {
+    overflow-x: auto;
+    /* overflow-y: visible; */
+    max-height: 5000000px;
+}
+
+      div.output_area pre {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    color: white;
+    background-color: transparent;
+    border-radius: 0;
+          text-align:center;
+}
+      h1{
+          background-color: #134e5e00;
+    font-size: 2rem !important;
+    font-weight: 300 !important;
+    color: #fcf8e3;
+    /* letter-spacing: 3px !important; */
+    text-transform: normal !important;
+    text-align: center !important;
+    padding-top:  1rem;
+    padding-bottom: 1rem;
+      }
+      
+html {
+  font: normal 112.5%/1.65 serif; /* base font size 18px with 1.65 line-height */
+  -moz-font-feature-settings: "liga=1, dlig=1"; /* common and discretionary ligatures */
+    -ms-font-feature-settings: "liga", "dlig";
+    -webkit-font-feature-settings: "liga", "dlig";
+    -o-font-feature-settings: "liga", "dlig";
+    font-feature-settings: "liga", "dlig";
+}
+h2 {
+        font-family: 'Open sans',verdana,arial,sans-serif;
+        text-align: left;
+	    background-color: #508e74;
+        font-weight: 200;
+        font-size: 16pt;
+        font-style: italic;
+        line-height: 2;
+        color: #134e5e;
+        margin-bottom: 0.5em;
+        margin-top: 1.5em;
+        display: block;
+        white-space: wrap;
+        text-align: center;
+	padding-top: 0.5rem;
+	padding-botton: 0.5rem;
+    }
+    .text_cell_render h2 {
+    background-color: #508e7400;
+    font-weight: 200;
+    font-size: 26pt;
+    font-style: italic;
+    
+    color: #ffffff;
+    margin-bottom: 0.5em;
+    margin-top: 1.5em;
+    display: block;
+    white-space: wrap;
+    text-align: center;
+    padding-top: 0.5rem;
+    padding-botton: 0.5rem;
+}
+ 
+    h3 {
+        
+    }
+    .text_cell_render h3 {
+        font-weight: 200;
+        font-size: 14pt;
+        line-height: 0;
+        color: #eef3f5;
+        margin-bottom: 0.5em;
+        margin-top: 2em;
+        display: block;
+        white-space: wrap;
+        text-align: center;
+    }
+    h4 {
+        
+    }
+    .text_cell_render h4 {
+        font-weight: 100;
+        font-size: 14pt;
+        color: #134e5e;
+        margin-bottom: 0.5em;
+        margin-top: 0.5em;
+        display: block;
+        white-space: nowrap;
+    }
+    h5 {
+        font-family: 'Varela Round', sans-serif;
+    }
+
+    .text_cell_render h5 {
+        font-weight: 200;
+        font-style: normal;
+        
+        font-size: 16pt;
+        margin-bottom: 0em;
+        margin-top: 0.5em;
+        display: block;
+        white-space: nowrap;
+    }
+    div.output_subarea.output_text.output_pyout {
+        overflow-x: auto;
+        overflow-y: visible;
+        max-height: 5000000px;
+    }
+  
+    div.output_wrapper{
+        margin-top:0.2em;
+        margin-bottom:0.2em;
+}
+.jupyter-button.mod-success {
+    color: rgba(255, 255, 255, 1.0);
+    background-color: #134e5e;
+    border: 2px;
+    border-color:black;
+}
+
+h3,
+h4,
+h1p,
+      
+h6 {
+  line-height: 1;
+  margin-top: 0;
+  color: white;
+	display: inline-block;
+	position: relative;
+}
+
+.gigantic{font-size: 5rem;}
+.supersize{font-size: 8rem;}
+.tera {
+  font-size: 2rem; /* 117 / 18 = 6.5 */
+  margin-bottom: 0.25385rem;
+   
+}
+
+.gamma {
+  font-size: 1rem; /* 36 / 18 = 2 */
+  margin-bottom: 0.825rem;
+    margin-left: 2rem;
+}
+
+.vollkorn{font-family: 'Vollkorn'}
+.merriweather{font-family: 'Merriweather'}
+.light{font-weight: 300;}
+.bold{font-weight: 700;}
+.italic{font-style: italic;}
+.normal{font-style: normal;}
+.ls-large{letter-spacing: 8px;}
+.uppercase{text-transform: uppercase;}
+.text-left{text-align: left;}
+
+.thick-header-line:before, .thick-header-line:after{
+	content: "";
+	display: block;
+	position: absolute;
+	width:7rem;
+	height: 4px;
+	background-color: #fff;
+	top:50%;
+	margin-bottom: -4px;
+}
+.thick-header-line:before{
+	left: -7.5rem;
+}
+.thick-header-line:after{
+	right: -7.5rem;
+}
+
+.thin-header-line:before, .thin-header-line:after{
+	content: "";
+	display: block;
+	position: absolute;
+	width:7rem;
+	height: 1px;
+	background-color: #fff;
+	top:50%;
+	margin-bottom: -1px;
+}
+.thin-header-line:before{
+	left: -7.5rem;
+}
+.thin-header-line:after{
+	right: -7rem;
+}
+.line-after-heading:before{
+	content: "";
+	display: block;
+	position: absolute;
+	background-color: #fff;
+	width:4rem;
+	height: 2px;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	bottom: -2rem;
+
+}
+.double-header-line:before, .double-header-line:after{
+	content: "";
+	display: block;
+	position: absolute;
+	width:7rem;
+	background-color: transparent;
+	height: 4px;
+	border-top: 1px solid #fff;
+	border-bottom:1px solid #fff;
+	top: 50%;
+	margin-bottom: -4px;
+}
+.double-header-line:before{
+	left: -7.5rem;
+}
+.double-header-line:after{
+	right: -7.5rem;
+}
+.decorative-span{
+  display: inline-block;
+    font-size: 30px;
+    line-height: 60px;
+    margin: 0 10px;
+    position: relative;
+    vertical-align: middle;
+	color: #fff;
+}
+.decorative-span:before, .decorative-span:after{
+    background-color: #fff;
+    bottom: 100%;
+    content: "";
+    height: 2px;
+    left: 0;
+    position: absolute;
+    right: 0;
+}
+.decorative-span:after {
+    top: 96%;
+}
+
+.text-overlay:before{
+	content: attr(data-text);
+	z-index: 99;
+	width: 98%;
+	height: 50px;
+	background-color: hsla(0,0%,0%,0.6);
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	line-height: 50px;
+	text-align: center;
+	color:#f0ad00;
+	font-family: 'bree serif';
+	font-style: normal;
+	font-size: 1.3rem;
+	letter-spacing: 0;
+	text-transform: none;
+	font-weight: 400;
+}
+
+/* ==== General styles ==== */
+section{
+	height: 300px;
+	padding: 3rem 0;
+	position: relative;
+    
+}
+.wrapper{
+	max-width: 53.33rem;
+	margin: 0 auto;
+	position: relative;
+	z-index: 10;
+	transform: translateY(-50%);
+	top:50%;
+	text-align: center;
+}
+.wrapper.large-wrap{max-width: 100%;}
+section:nth-of-type(3n+1){
+	background-size: cover;
+}
+      .jupyter-dashboard .cell, .jupyter-dashboard .cell.selected {
+    background: linear-gradient(90deg, #134E5E 10%, #71B280 90%);
+    border: none;
+    padding: 0;
+}
+section:nth-of-type(1){
+  background: -webkit-linear-gradient(90deg, #134E5E 10%, #71B280 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #134E5E 10%, #71B280 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #134E5E 10%, #71B280 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #134E5E 10%, #71B280 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #134E5E 10%, #71B280 90%); /* W3C */
+}
+/* Media queries */
+ @media screen and (min-width: 1440px) {
+   section{height:700px}
+ }
+
+@keyframes slidebg {
+  to {
+    background-position:20vw;
+  }
+}
+      /* Global Button Styles */
+a.animated-button:link, a.animated-button:visited {
+	position: relative;
+	display: block;
+	margin: 30px auto 0;
+	padding: 14px 15px;
+	color: #fff;
+	font-size:14px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	overflow: hidden;
+	letter-spacing: .08em;
+	border-radius: 0;
+	text-shadow: 0 0 1px rgba(0, 0, 0, 0.2), 0 1px 0 rgba(0, 0, 0, 0.2);
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	transition: all 1s ease;
+}
+a.animated-button:link:after, a.animated-button:visited:after {
+	content: "";
+	position: absolute;
+	height: 0%;
+	left: 50%;
+	top: 50%;
+	width: 150%;
+	z-index: -1;
+	-webkit-transition: all 0.75s ease 0s;
+	-moz-transition: all 0.75s ease 0s;
+	-o-transition: all 0.75s ease 0s;
+	transition: all 0.75s ease 0s;
+}
+a.animated-button:link:hover, a.animated-button:visited:hover {
+	color: #FFF;
+	text-shadow: none;
+}
+a.animated-button:link:hover:after, a.animated-button:visited:hover:after {
+	height: 450%;
+}
+      #notebook-container {
+    padding: 15px;
+     background: linear-gradient(90deg, #134E5E 10%, #71B280 90%);
+    min-height: 0;
+    -webkit-box-shadow: 0px 0px 12px 1px rgba(87, 87, 87, 0.2);
+    box-shadow: 0px 0px 12px 1px rgba(87, 87, 87, 0.2);
+}
+      div#notebook {
+    font-size: 14px;
+    line-height: 20px;
+    overflow-y: hidden;
+    overflow-x: auto;
+    width: 100%;
+    padding-top: 20px;
+    margin: 0px;
+    outline: none;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    min-height: 100%;
+    background-color: #ffffff;
+}
+a.animated-button:link, a.animated-button:visited {
+	position: relative;
+	display: block;
+	margin: 30px 60px 1;
+	padding: 14px 15px;
+	color: #fff;
+	font-size:14px;
+	border-radius: 0;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	overflow: hidden;
+	letter-spacing: .08em;
+	text-shadow: 0 0 1px rgba(0, 0, 0, 0.2), 0 1px 0 rgba(0, 0, 0, 0.2);
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	transition: all 1s ease;
+}
+.rendered_html h1:first-child {
+    margin-top: 0em;}
+      div.cell {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-box-align: stretch;
+    display: -moz-box;
+    -moz-box-orient: vertical;
+    -moz-box-align: stretch;
+    display: box;
+    box-orient: vertical;
+    box-align: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    border-radius: 2px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
+    width: 100%;
+    /* padding: 5px; */
+    margin: 0px;
+    outline: none;
+    border-left-width: 1px;
+    padding-left: 5px;
+    background: linear-gradient(to right, transparent -40px, transparent 1px, transparent 1px, transparent 100%);
+}
+      div.cell.selected {
+    border-color: #fffff;
+    border-left-width: 0px;
+    padding-left: 6px;
+    background: linear-gradient(to right, #42A5F5 -40px, #42A5F5 5px, transparent 5px, transparent 100%);
+}
+      
+a.animated-button.victoria-four {
+	border: 2px solid white;
+    width: 100%;
+    margin-left: 120px;
+}
+a.animated-button.victoria-four:after {
+	background: #D24D57;
+	opacity: .5;
+	-moz-transform: translateY(-50%) translateX(-50%) rotate(90deg);
+	-ms-transform: translateY(-50%) translateX(-50%) rotate(90deg);
+	-webkit-transform: translateY(-50%) translateX(-50%) rotate(90deg);
+	transform: translateY(-50%) translateX(-50%) rotate(90deg);
+}
+a.animated-button.victoria-four:hover:after {
+	opacity: 1;
+	height: 600% !important;
+}
+      .jupyter-button.mod-success {
+    color: rgb(255, 255, 255);
+    background-color: #ffffff;
+    border-color: #57b93a;
+    border: 12px;
+    font-size: 1rem;
+    color: #134e5e;
+}
+      img {
+    vertical-align: middle;
+    background-color: white;
+  
+}
+      buttons
+      { background-color:black;
+      }
+      .jupyter-dashboard .container div.output_subarea {
+    max-width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+    </style>
+<section class = "sect">
+	<div class="wrapper">
+	 <h1p class="gamma light merriweather italic text-left">
+		 Welcome to the<br>
+		<span class="tera uppercase text-left ls-large vollkorn bold normal">Crime Resilience Index for Khayelitsha</span><br>
+		<span class="tera uppercase text-left ls-large vollkorn italic normal">Dashboard</span><br>
+		Presented by Lauren Pijper
+	</h1p>
+	 </div>
+   <div class="row">
+       <div class="col-md-3 col-sm-3 col-xs-6">
+     <a href="
+        https://github.com/laurenpijper/gis706/blob/master/LaurenPijper_04461615_RP_MapChange.pdf
+      " target="_blank" class="btn btn-sm animated-button victoria-four">Download Research</a> </div>
+       <div class="col-md-3 col-sm-3 col-xs-6">
+         </div>
+       <div class="col-md-3 col-sm-3 col-xs-6">
+        <a href="
+        https://github.com/laurenpijper/gis706
+      " target="_blank" class="btn btn-sm animated-button victoria-four">See GitHub Repository</a> </div>
+       
+     
+  </div>
+	</section>
+	<div id="top"></div>
+</body>
